@@ -46,7 +46,8 @@ if 条件:
 elif 条件:
     语句
 else:
-    语句
+    语句  
+```
 ## 二、遇到的困难及解决方法  
 ### 2.1GitHub SSH Key 配置  
 **1. apt更新cdrom源报错**
